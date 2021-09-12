@@ -308,51 +308,51 @@ python3
 
 78
 00:03:17,130 --> 00:03:19,830
-so there's pros and cons to picking either won
+当然它也有自己的优缺点
 
 79
 00:03:20,490 --> 00:03:22,770
-a lot of people say like python too
+很多人也说他们喜欢python
 
 80
 00:03:22,830 --> 00:03:25,440
-has been around longer and so there's more like 
+这已经成长成了一个很大的群体 这里也有很多的库
 
 81
 00:03:25,590 --> 00:03:30,270
-libraries there's basically just more python code written in python two 還有這裡有很多python寫的庫
+其实他们是基于python2的基础写的
 
 82
 00:03:30,600 --> 00:03:35,400
-so therefore like there's a few more things that you can do in pipe onto then you can do in python three 因此這裡只有少數的事情是pip不能做的，這個時候你就可以使用python
+因此 python2能做的事情比python3还要多
 
 83
 00:03:35,730 --> 00:03:36,630
-but then again 可是 再說一次
+可是 再說一次
 
 84
 00:03:36,780 --> 00:03:38,880
-python two is not supported and you know, python2 目前已經不再支持的了，你知道的
+python2 目前已經不再支持的了 你懂的
 
 85
 00:03:38,970 --> 00:03:40,350
-five or ten years from now 從現在開始再過5到10年
+從現在開始再過5到10年
 
 86
 00:03:40,380 --> 00:03:42,120
-probably no one's going to be using it. 可能再也沒有人使用python2了
+可能再也沒有人使用python2了
 
 87
 00:03:42,810 --> 00:03:47,100
-python three it like a site is like the future of python it's the newest version it's the one that python3 它是未來python的基礎 這個是python3中的最新版本
+python3 它是未來python的基礎 這個是python3的最新版本
 
 88
 00:03:47,130 --> 00:03:49,800
-you know it's sort of being maintained going forward. 就像你知道的這個版本會一直的維護
+就像你知道的這個版本會一直的維護
 
 89
 00:03:50,280 --> 00:03:53,460
-so for the purposes of this tutorial I'm going to be teaching you guys 所以這個教程的目的是教你使用python3
+所以這個教程的目的是教你使用python3
 
 90
 00:03:53,490 --> 00:03:54,240
@@ -364,178 +364,178 @@ so for the purposes of this tutorial I'm going to be teaching you guys 所以這
 
 92
 00:03:55,200 --> 00:03:57,120
-so we're going to want to download python 我們先下載python3
+我們先下載python3
 
 93
 00:03:57,150 --> 00:03:57,600
 
-
 94
 00:03:57,840 --> 00:03:58,860
-now here's vaguely 這裡有個模糊的地方
+這裡有個模糊的地方
 
 95
 00:03:59,040 --> 00:04:03,450
-if you learn python three or you learn python to the differences aren't very big. 如果你學python3 或者你學的python區別不是很大
+ 如果你學python3 或者你學的python2區別不是很大
+
 96
 00:04:03,720 --> 00:04:07,050
-there are a few differences in like some syntax and just so 這裡有些語法的不同
+這裡有些語法的不同
 
 97
 00:04:07,080 --> 00:04:08,700
-you know little things here and there, 不過不會有很大的不同
+不過区别不大
 
 98
 00:04:08,760 --> 00:04:11,700
-but if you learn python three you'll be able to jump right in and
+如果你要学习python3可以直接的进来 当然之后也可以用python2来编码
 
 99
 00:04:11,730 --> 00:04:14,610
-code in python two as well don't let anyone
+不要听人瞎咧咧
 
 100
 00:04:14,940 --> 00:04:15,630
-tell you that
+告诉你
 
 101
 00:04:15,720 --> 00:04:17,040
-you have to learn one of the other.
+你学错了应该学另外一个版本
 
 102
 00:04:17,100 --> 00:04:21,840
-we're going to learn python three just because it's I think probably the best for a beginner to learn. 我們學python3只是因為我覺得可能這個是最適合於初學者
+我們學python3只是因為我覺得可能這個是最適合於初學者
 
 103
 00:04:22,050 --> 00:04:26,159
-and so that's the one that we want to download so I'm just going to click download python three  所以這個我點擊下載python3
+所以這個有我们想下载的版本 點擊下載python3
 
 104
 00:04:26,489 --> 00:04:27,749
-and we're gonna go ahead and download  我們開始下載這個版本
+我們開始下載這個
 
 105
 00:04:27,779 --> 00:04:28,649
-this version.
+版本
 
 106
 00:04:29,009 --> 00:04:33,089
-and when that's done downloading I'm going to head down to my downloads folder。當下載完成後 我要去的下載文件夾
+當下載完成後 到下載文件夾
 
 107
 00:04:33,989 --> 00:04:35,969
-and you'll see here we just have this file 你將看到這裡有個剛剛下載的文件
+你將看到剛剛下載的文件
 
 108
 00:04:36,989 --> 00:04:37,679
-doubleclick, 雙擊
+雙擊一波
 
 109
 00:04:37,949 --> 00:04:41,609
-and we get this like python installer so I'm going to click through here, 我們會看到這個python安裝界面 所以我點擊這兒
+我們會看到這個python安裝界面 所以我點擊這兒
 
 110
 00:04:42,029 --> 00:04:45,359
-and we'll be able to install python three on our computer 我們就在我們的電腦裡安裝了python
+我們就在電腦裡安裝了python3
 
 111
 00:04:45,509 --> 00:04:51,449
-right when that's done and stalling we can just close out of this and we should begin to get us now we have python three 當安裝結束 我們關閉這窗口。現在我們應該曉得python3
+好了 安裝結束后 關閉這窗口 現在我們电脑里就应该有python3了
 
 112
 00:04:51,719 --> 00:04:53,159
-installed on our computer. 已經成功的安裝到了我們的電腦
+已經成功安裝到了電腦
 
 113
 00:04:53,549 --> 00:04:54,479
-the next step 下一步是
-
+下一步
+ 
 114
 00:04:54,509 --> 00:04:56,399
-is we need to choose a text 我們需要選擇一個文本編輯器
+is we need to choose a text 是我們需要選擇一個文本
 
 115
 00:04:56,429 --> 00:04:57,239
-editor so
+编辑器
 
 116
 00:04:57,899 --> 00:05:04,529
-we're going to be writing a bunch of code so we're going to need some you know environment of some program that we can write all that code in. 我們要寫一長串代碼 所以我們需要某個程序能夠運行的環境 這樣我們就可以在裡面編寫所有的代碼
+我們要寫很多代碼 所以我們需要个能夠運行的環境 這樣我們就可以在裡面編寫所有的代碼
 
 117
 00:05:04,829 --> 00:05:09,959
-and really you can write python in any text editor you could write it in like a note pad or tax at it, 事實上 你可以在任何文本編輯器中編寫你的python代碼，nodepad或text
+事實上 你可以在任何文本編輯器中編寫你的python代碼 像nodepad，text或别的
 
 118
 00:05:10,199 --> 00:05:11,099
-it doesn't really matter 使用什麼都無關緊要
+用啥無關緊要
 
 119
 00:05:11,339 --> 00:05:13,019
-but there are special 可以這裡有個特殊
+不过这里有個特殊
 
 120
 00:05:13,049 --> 00:05:14,699
-text editors that are designed 的文本編輯器 它們就是為了
+的文本編輯器 它們就是為了
 
 121
 00:05:14,729 --> 00:05:16,979
-just for writing python code. python代碼設計的
+写python代碼設計的
 
 122
 00:05:17,249 --> 00:05:18,209
-and these are called。 他們也是這樣稱呼它的
+我们叫它
 
 123
 00:05:18,269 --> 00:05:20,129
-id ease and not stands for 並不代表整合了所有的開發環境
+IDE 并不是它整合了
 
 124
 00:05:20,159 --> 00:05:22,019
-integrated development environment.
+开发环境
 
 125
 00:05:22,379 --> 00:05:27,269
-it's basically just a special environment where we can you know ron and execute our python code. 它就只有一個特殊的環境 你可以在這運行，執行你的python代碼
+它就只有一個特殊的環境 你可以在這運行 调试你的python代碼
 
 126
 00:05:27,479 --> 00:05:30,569
-and it'll you know basically like tell us how we're doing so were 它會告訴我們
+它会告诉我们一些基础的东西应该怎么处理 
 
 127
 00:05:30,629 --> 00:05:32,879
-the only if we write something that's wrong or we
+像我们写的是否正确 或 
 
 128
 00:05:32,909 --> 00:05:34,109
-have errors it'll kind of
+我们写的有错误 像类似这样的事情
 
 129
 00:05:34,529 --> 00:05:37,259
-point us in the right direction of what we need to do to fix that stuff,
+编辑器会正确的指导我们应该怎么修改问题
 
 130
 00:05:37,649 --> 00:05:39,779
-so in this course we're going to be using an idea
+所以在这教程中我们将使用IDE
 
 131
 00:05:39,809 --> 00:05:40,229
-and
+恩
 
 132
 00:05:40,259 --> 00:05:41,219
-one of my favorites
+有个我最喜欢的
 
 133
 00:05:41,249 --> 00:05:44,879
-and one of the most popular ity ease for python is called pi charm.
+也是最流行的开发pyhton IDE叫pycharm
 
 134
 00:05:45,239 --> 00:05:46,889
-so I'm over here on this website.
+所以我会到这个网站来
 
 135
 00:05:46,949 --> 00:05:47,489
-it's called
+它叫
 
 136
 00:05:47,519 --> 00:05:48,599
@@ -543,295 +543,294 @@ jet brains
 
 137
 00:05:48,629 --> 00:05:49,559
-dotcom
+.com
 
 138
 00:05:49,589 --> 00:05:50,519
-forward slash
+/
 
 139
 00:05:50,549 --> 00:05:51,329
-pi charm.
+pycharm.
 
 140
 00:05:51,659 --> 00:05:54,569
-and this is the idea that we're gonna be using in this course
+这个就是我们在这个教程中要使用的IDE
 
 141
 00:05:54,599 --> 00:05:57,029
-so I'm just gonna come over here and click this big download
+因此我会到这点击这个大大的下载
 
 142
 00:05:57,059 --> 00:05:57,809
-now button
+按钮
 
 143
 00:05:58,319 --> 00:05:59,668
-and we'll go ahead and
+我们将继续
 
 144
 00:05:59,698 --> 00:06:00,629
-download this
+下载这个
 
 145
 00:06:00,659 --> 00:06:01,979
-pie charm program
+pycharm 程序
 
 146
 00:06:02,309 --> 00:06:06,268
-right so I'm getting this page are here you can see there's two versions of pi charm
+好了 我到这个页面将看到两个版本的pycharm
 
 147
 00:06:06,478 --> 00:06:09,958
-one as a professional version and that one's like paid they have to pay for it.
+一个是专业版付费版
 
 148
 00:06:10,228 --> 00:06:14,878
-but then there's this community version down here and that's free and open source so I'm going to download this one
+不过这有个社区版 免费 开源 我下载这个社区版
 
 149
 00:06:15,268 --> 00:06:18,688
-and this should have everything we need to get started using python
+这就是所有我们开始python旅程前要准备的
 
 150
 00:06:19,258 --> 00:06:21,658
-right when that finishes downloading I'm just going to
+好了 当下载完成 我要找到
 
 151
 00:06:21,688 --> 00:06:23,458
-pull that up in my downloads folder
+我在下载文件夹中下载的文家
 
 152
 00:06:23,938 --> 00:06:24,538
-and
+
 
 153
 00:06:24,598 --> 00:06:25,738
-again we can just sort of
+再一次 我们运行
 
 154
 00:06:25,768 --> 00:06:26,818
-run this guy
+这个软件
 
 155
 00:06:26,938 --> 00:06:30,778
-and I'm on a mac so I'm going to have to drag it over to my applications folder.
+我用的Mac 所以我必须把它拖到我们应用文件夹
 
 156
 00:06:31,258 --> 00:06:33,058
-all right so now have pi charm
+好了 现在搞定了pycharm
 
 157
 00:06:33,088 --> 00:06:34,498
-and we have python
+我们的python3也
 
 158
 00:06:34,528 --> 00:06:36,328
-three installed on your computer.
+已经在电脑中安装好了
 
 159
 00:06:36,748 --> 00:06:39,118
-so we're ready to start programming in
+所以我们已经准备好开始python编程了
 
 160
 00:06:39,148 --> 00:06:39,868
-python.
+
 
 161
 00:06:43,768 --> 00:06:46,108
-in this tutorial we're going to create our first
+在这个教程中我们将创建我们的第一个
 
 162
 00:06:46,138 --> 00:06:47,248
-python program.
+python 程序
 
 163
 00:06:47,518 --> 00:06:48,988
-and we're going to be able to run it and
+我们会运行它 
 
 164
 00:06:49,048 --> 00:06:50,848
-see how everything works.
+看它是怎么工作的
 
 165
 00:06:51,088 --> 00:06:52,708
-the first thing I want to do is open up
+首先我要做的是打开pycharm
 
 166
 00:06:52,738 --> 00:06:54,808
-pi charm so pi charm was the
+所以pycharm是个IDE
 
 167
 00:06:54,838 --> 00:06:55,948
-idea he the
 
 168
 00:06:56,008 --> 00:06:57,658
-integrated development environment
+它整合了开发环境
 
 169
 00:06:57,928 --> 00:07:00,388
-that we downloaded in the last tutorial so
+就是上次我们下载的
 
 170
 00:07:00,658 --> 00:07:02,698
-I'm just going to go out and search for it on my computer
+所以我要到这 然后在我的电脑中搜索它
 
 171
 00:07:03,508 --> 00:07:04,708
-and I can just open it up
+打开它
 
 172
 00:07:04,768 --> 00:07:07,918
-and we first opened up high charm we should basically just get a window
+当我们首次打开pycharm时 我们会看到这个窗口
 
 173
 00:07:07,948 --> 00:07:10,588
-prompting us to create a project.
+提示我们去创建一个项目
 
 174
 00:07:10,858 --> 00:07:12,058
-so you can see that down here.
+你可以看它下面的几个选项
 
 175
 00:07:12,328 --> 00:07:15,777
-actually the first thing I want to do though is come over here to configure
+事实上我们要做的第一件事是到这配置
 
 176
 00:07:16,287 --> 00:07:17,247
-and I'm just going to
+我将
 
 177
 00:07:17,277 --> 00:07:18,627
-click on preferences.
+点击这个preferences(偏好)
 
 178
 00:07:19,077 --> 00:07:20,757
-and I actually want to
+我其实想
 
 179
 00:07:20,787 --> 00:07:22,347
-change the appearance
+改变我的外观
 
 180
 00:07:22,377 --> 00:07:22,887
-so
+所以
 
 181
 00:07:23,337 --> 00:07:24,627
-I'm gonna go ahead and
+我到这
 
 182
 00:07:25,167 --> 00:07:28,707
-give this a theme so I just went over here to appearance and behavior appearance
+给外观一个主题
 
 183
 00:07:29,067 --> 00:07:30,927
-and I'm gonna change the theme to
+我将主题改成
 
 184
 00:07:31,047 --> 00:07:31,767
-darker color
+darcula
 
 185
 00:07:31,917 --> 00:07:33,807
-because I think it's a little bit easier to
+因为我觉得这个主题
 
 186
 00:07:33,897 --> 00:07:35,037
-use and look at,
+易用且美观
 
 187
 00:07:35,247 --> 00:07:36,957
-but you don't have to do that if you don't want you
+如果你不想改 你没必要一定要改它
 
 188
 00:07:37,437 --> 00:07:38,037
-so
+所以
 
 189
 00:07:38,067 --> 00:07:38,727
-down here
+这儿
 
 190
 00:07:38,757 --> 00:07:39,507
-I'm just going to click
+我将点击
 
 191
 00:07:39,537 --> 00:07:40,917
-create new projects
+创建一个新项目
 
 192
 00:07:41,307 --> 00:07:41,967
-and it's going to
+它将
 
 193
 00:07:41,997 --> 00:07:45,567
-give us this little window right here so I can just name my project.
+ 给我们在这展示一个小窗口 所以我们可以在这给我们的项目命名
 
 194
 00:07:45,897 --> 00:07:47,157
-and I'm just going to name this
+在这我给它起个名字叫
 
 195
 00:07:47,217 --> 00:07:47,967
-graph.
+giraffe（长颈鹿）
 
 196
 00:07:48,597 --> 00:07:51,777
-and then there's other option down here where it says interpreter.
+这下面有另外一个选项是预编器
 
 197
 00:07:52,167 --> 00:07:52,677
-now
+现在
 
 198
 00:07:53,487 --> 00:07:54,657
-what we wanna select
+我们选的
 
 199
 00:07:54,687 --> 00:07:55,287
-is
+是
 
 200
 00:07:55,377 --> 00:07:57,087
-python version three
+ptyhon版本3
 
 201
 00:07:57,117 --> 00:08:00,837
-so if I click down here you'll notice that there's a couple different options.
+如果你点击这下拉按钮会看到一对别的选项
 
 202
 00:08:01,077 --> 00:08:02,907
-so I'm on a mac computer
+所以我的Mac电脑
 
 203
 00:08:02,937 --> 00:08:03,387
-and
+
 
 204
 00:08:03,417 --> 00:08:05,517
-by default mac has
+默认安装了
 
 205
 00:08:05,577 --> 00:08:06,237
-python
+python2
 
 206
 00:08:06,267 --> 00:08:08,127
-version two installed on it.
+的两个版本
 
 207
 00:08:08,427 --> 00:08:11,277
-if you're on a windows machine I'm not sure if it does but
+ 如果你用的是window系统 我们不确定是否也安装了 可是
 
 208
 00:08:11,907 --> 00:08:16,437
-in this tutorial we're going to be using python three so you wanna make sure that you have python
+在这个教程中我们将使用python3 所以你只要确认
 
 209
 00:08:16,467 --> 00:08:18,807
-three selected as the interpreter,
+python3被选择了就可以了
 
 210
 00:08:19,077 --> 00:08:19,587
