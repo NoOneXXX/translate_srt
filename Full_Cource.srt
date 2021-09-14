@@ -834,159 +834,159 @@ python3被选择了就可以了
 
 210
 00:08:19,077 --> 00:08:19,587
-otherwise
+此外
 
 211
 00:08:19,737 --> 00:08:19,977
-you
+你
 
 212
 00:08:20,007 --> 00:08:23,007
-might not be able to fully follow along with what we're doing in this video.
+可能没法跟上我们视频的所有操作
 
 213
 00:08:23,307 --> 00:08:25,377
-so now it's going to come down here and click
+所以现在到这来然后点击
 
 214
 00:08:25,407 --> 00:08:26,007
-create.
+创建
 
 215
 00:08:26,277 --> 00:08:28,737
-and this is going to go ahead and create our projects
+这样就完成了我们的项目创建
 
 216
 00:08:28,767 --> 00:08:29,517
-for us
+对于我们来说
 
 217
 00:08:29,607 --> 00:08:30,807
-right so now we have
+现在我们已经有了
 
 218
 00:08:30,837 --> 00:08:31,377
-our
+我们的
 
 219
 00:08:31,407 --> 00:08:32,307
-python project
+python项目
 
 220
 00:08:32,337 --> 00:08:32,967
-up and running,
+运行良好
 
 221
 00:08:33,327 --> 00:08:36,177
-and I'm sure you guys how we can create our first
+我确信你应该知道我们应该怎么样创建我们的第一个
 
 222
 00:08:36,297 --> 00:08:37,617
-python program,
+python程序了
 
 223
 00:08:37,917 --> 00:08:42,297
-so over here in this draft folder and this is just that project that we created.
+所以在这个giraffe文件夹中就是我们刚刚创建的项目
 
 224
 00:08:42,747 --> 00:08:43,737
-I'm just going to right click
+我要右击
 
 225
 00:08:43,767 --> 00:08:44,937
-and I'm saying new
+会看到new
 
 226
 00:08:45,627 --> 00:08:46,857
-and I'm going to come down and click
+到下面这然后点击
 
 227
 00:08:46,887 --> 00:08:50,487
-python file so we want to create a new python file this will be our first
+python文件 我们将创建第一个python文件在我们的
 
 228
 00:08:50,517 --> 00:08:51,567
-python program.
+python程序中
 
 229
 00:08:52,137 --> 00:08:52,467
-and
+还有
 
 230
 00:08:52,497 --> 00:08:53,787
-I can just give this a name,
+起个名字
 
 231
 00:08:53,847 --> 00:08:55,197
-so why don't we just call this
+为啥我们不直接叫它
 
 232
 00:08:55,287 --> 00:08:55,617
-app
+app那
 
 233
 00:08:55,737 --> 00:08:56,817
-and it's going to click ok
+点击ok
 
 234
 00:08:56,937 --> 00:08:59,097
-all right so now we have our first
+好了 现在我们有了第一个
 
 235
 00:08:59,127 --> 00:08:59,937
-python file
+python 文件
 
 236
 00:08:59,967 --> 00:09:00,507
-open
+打开
 
 237
 00:09:01,017 --> 00:09:04,407
-and we can just start typing in some python so I want to show you guys.
+我们可以开始在这输入一些python代码 我会给你展示
 
 238
 00:09:04,617 --> 00:09:06,837
-does a very basic python program.
+一些非常基础的python项目
 
 239
 00:09:07,047 --> 00:09:11,698
-and this is just going to be a hello world programs so we're just gonna print something out onto the screen.
+这些可以是hello world程序 所以我会在显示器上打印一些东西
 
 240
 00:09:11,998 --> 00:09:12,538
-so when I say
+所以
 
 241
 00:09:12,598 --> 00:09:15,928
-what I want to do is I want to type out p r iyer anti prince
+当我想做这个的时候 我要输入p r i n t print()
 
 242
 00:09:16,348 --> 00:09:17,008
-and wanted to have an
+我要加上
 
 243
 00:09:17,038 --> 00:09:17,938
-open and closed
+左右
 
 244
 00:09:17,968 --> 00:09:18,808
-parentheses
+括号
 
 245
 00:09:19,048 --> 00:09:19,348
-now
+现在
 
 246
 00:09:19,378 --> 00:09:21,838
-inside of those parentheses we can make some
+在这个括号里我们可以加个
 
 247
 00:09:21,868 --> 00:09:22,798
-quotation marks
+双引号标记
 
 248
 00:09:23,008 --> 00:09:25,408
-and inside of the quotation marks I'm just going to tape out
+在这双引号中 输入
 
 249
 00:09:25,468 --> 00:09:26,218
@@ -998,63 +998,63 @@ world.
 
 251
 00:09:27,148 --> 00:09:29,968
-so this is like a very basic python program.
+ 看 这就是非常基础的python项目
 
 252
 00:09:30,178 --> 00:09:31,438
-and what this is gonna do is
+这个能做的就是
 
 253
 00:09:31,468 --> 00:09:33,718
-it's just going to print out hello world
+它会输出 hello world
 
 254
 00:09:33,748 --> 00:09:34,828
-onto the screen.
+在屏幕上
 
 255
 00:09:35,278 --> 00:09:36,568
-and so now what I can do
+所以现在可以用这个文件做啥
 
 256
 00:09:36,658 --> 00:09:41,068
-is I can actually run this file and we're actually getting a little arrow here it wants us to create a new line
+其实我可以运行这个文件 我们要是想开始新的一行可以 
 
 257
 00:09:41,368 --> 00:09:42,448
-at the end of the file.
+在文件最后敲个回车
 
 258
 00:09:42,988 --> 00:09:47,518
-and so now in order to run our python program I'm just going to come up here to the top
+现在为了运行我们的python程序 到这上面来
 
 259
 00:09:47,908 --> 00:09:49,348
-and I'm cinematic run
+在这找到run
 
 260
 00:09:49,468 --> 00:09:51,448
-and we'll click this run button right here
+我们在这点击这个run按钮
 
 261
 00:09:51,868 --> 00:09:52,948
-and I will see what happens
+将会看到接下来发生的事情
 
 262
 00:09:52,979 --> 00:09:53,729
-so it's
+就是
 
 263
 00:09:53,789 --> 00:09:56,249
-asking me what I want to run I can just click add up
+询问我要运行的文件名称 点击运行
 
 264
 00:09:56,939 --> 00:09:57,359
-and
+然后
 
 265
 00:09:57,389 --> 00:10:01,679
-down here at the bottom you'll notice that we have this text that just got printed out
+到最下面来 能看到我们刚要打印的东西
 
 266
 00:10:01,709 --> 00:10:02,639
@@ -1062,183 +1062,183 @@ hello world,
 
 267
 00:10:02,999 --> 00:10:03,509
-so
+所以
 
 268
 00:10:03,569 --> 00:10:04,349
-whatever I
+无论我
 
 269
 00:10:04,409 --> 00:10:04,919
-print
+打印
 
 270
 00:10:05,159 --> 00:10:08,219
-or whatever I put inside of this print statement is going to get printed out
+或无论我在打印声明中写啥就会输出啥
 
 271
 00:10:08,249 --> 00:10:10,079
-down below in the council so
+到下面的控制台
 
 272
 00:10:10,319 --> 00:10:13,019
-as long as you're getting that print statements work then you
+只要你学会了这print的使用 其实
 
 273
 00:10:13,109 --> 00:10:15,359
-actually written your first python program.
+你已经写了你的第一个python程序
 
 274
 00:10:15,659 --> 00:10:16,499
-and as we go through it
+我们继续
 
 275
 00:10:16,529 --> 00:10:18,059
-forward in the course were can be writing
+往下 后面会告诉你写
 
 276
 00:10:18,089 --> 00:10:20,159
-all sorts of awesome python programs.
+各种酷炫的python程序
 
 277
 00:10:20,219 --> 00:10:21,059
-and we're going to do an
+我们将做
 
 278
 00:10:21,089 --> 00:10:22,379
-all sorts of cool stuff
+各种牛逼的东西
 
 279
 00:10:26,129 --> 00:10:33,299
-in this tutorial I wanna talk to you about writing a basic python programs so we're going to write it as a very simple python program.
+在这个教程中 我想告诉你写一个基础的python程序 所以我们会写个特别简单的
 
 280
 00:10:33,449 --> 00:10:36,929
-we're going to look at how we can go ahead and write up programs we're going to talk about
+我们会看到怎么实现它 我们将讨论怎么执行
 
 281
 00:10:37,079 --> 00:10:40,229
-how our programs are getting executed by python
+我们写的pthon程序
 
 282
 00:10:40,529 --> 00:10:44,099
-and we're also going to draw out a little shape onto the screen so
+我们也可以在屏幕上画个图案 
 
 283
 00:10:44,339 --> 00:10:46,109
-this is going to be pretty cool I'm excited to
+这个就特别的吊了 特别兴奋的
 
 284
 00:10:46,139 --> 00:10:47,519
-talk you guys about just the
+想告诉你
 
 285
 00:10:47,549 --> 00:10:49,200
-bare basics of python,
+所有python的基础用法
 
 286
 00:10:49,440 --> 00:10:51,720
-and really just sort of give you an introduction so
+介绍就先给你说这么多
 
 287
 00:10:51,810 --> 00:10:52,470
-over here
+在这儿
 
 288
 00:10:52,650 --> 00:10:53,790
-we have our
+我们有
 
 289
 00:10:53,820 --> 00:10:55,320
-basic text editor and so
+基础的文本编辑器
 
 290
 00:10:55,680 --> 00:10:56,880
-any of the
+所以任何基础的
 
 291
 00:10:56,940 --> 00:10:59,790
-python code that I write inside of this file
+ python代码我都可以写在这 这个文件
 
 292
 00:10:59,970 --> 00:11:02,910
-is actually going to get executed by a python so
+其实是个python可执行文件 所以
 
 293
 00:11:03,120 --> 00:11:04,440
-this python file
+这个python文件里
 
 294
 00:11:04,470 --> 00:11:05,430
-has a bunch of
+会有很多
 
 295
 00:11:05,460 --> 00:11:06,960
-python code inside of it.
+的python代码在里面
 
 296
 00:11:07,410 --> 00:11:09,600
-and basically what we're doing when we're
+首先我们在干嘛 当我们
 
 297
 00:11:09,630 --> 00:11:13,770
-programming in python is we're just giving the computer a set of instructions.
+写python程序的时候就是给电脑一组指令
 
 298
 00:11:14,070 --> 00:11:18,150
-right that's really what programming is it's just like we're specifying a set of instructions
+这就是程序干的事情 它就像一组我们写好的指令
 
 299
 00:11:18,390 --> 00:11:22,470
-and the computer is going to go off and execute those instructions that we give it.
+电脑去找到然后执行我们输入的指令
 
 300
 00:11:22,980 --> 00:11:23,460
-and so
+所以
 
 301
 00:11:23,490 --> 00:11:27,030
-the more complex the instructions we give to the computer the more complex
+我们给电脑越复杂的指令 我们就
 
 302
 00:11:27,060 --> 00:11:27,900
-the tasks
+可以执行
 
 303
 00:11:27,930 --> 00:11:28,890
-the computer can
+越复杂的
 
 304
 00:11:28,950 --> 00:11:29,610
-carry up.
+任务
 
 305
 00:11:30,090 --> 00:11:34,620
-so I'll show you guys how we can use some python instructions or some python code
+我会展示给你 我们怎么用python的指令 或python的代码
 
 306
 00:11:34,890 --> 00:11:37,710
-in order to draw out a shape onto the screen so
+在屏幕上画出图形
 
 307
 00:11:37,950 --> 00:11:39,090
-I'm actually going to draw out
+我要画出来一个
 
 308
 00:11:39,120 --> 00:11:40,230
-a little triangle.
+小的三角形
 
 309
 00:11:40,650 --> 00:11:41,490
-so over here,
+这儿
 
 310
 00:11:41,550 --> 00:11:43,950
-we can actually print something out onto the
+我们可以打印出来个东西在屏幕上
 
 311
 00:11:43,980 --> 00:11:48,060
-screen and python using something called a print statement so I can just type out
+python用print声明所以我可以敲pyhon的
 
 312
 00:11:48,090 --> 00:11:48,540
@@ -1246,35 +1246,35 @@ print.
 
 313
 00:11:48,960 --> 00:11:50,970
-and inside of these parentheses.
+在括号里面
 
 314
 00:11:51,390 --> 00:11:52,260
-I can just type
+在这我先写个
 
 315
 00:11:52,410 --> 00:11:53,700
-some quotation marks
+双引号
 
 316
 00:11:53,730 --> 00:11:54,990
-and inside the quotation marks
+在引号中
 
 317
 00:11:55,020 --> 00:11:55,410
-we can
+我们可以
 
 318
 00:11:55,440 --> 00:11:57,480
-put whatever we want to print out onto the screen.
+放任何想在屏幕上输出的东西
 
 319
 00:11:57,990 --> 00:11:58,890
-so I'm gonna
+所以我要
 
 320
 00:11:58,980 --> 00:12:00,631
-copy this and I'm actually going to make
+copy this and I'm actually going to make 复制这个 我其实
 
 321
 00:12:00,661 --> 00:12:02,761
