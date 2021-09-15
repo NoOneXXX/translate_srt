@@ -1270,143 +1270,143 @@ print.
 
 319
 00:11:57,990 --> 00:11:58,890
-所以我要
+所以我会
 
 320
 00:11:58,980 --> 00:12:00,631
-copy this and I'm actually going to make 复制这个 我其实
+复制这个 我其实是想
 
 321
 00:12:00,661 --> 00:12:02,761
-a few of these little prince statements
+多复制几个print声明
 
 322
 00:12:02,971 --> 00:12:04,441
-and we're going actually draw a sheep.
+我们可以画个形状
 
 323
 00:12:04,801 --> 00:12:05,371
-so
+所以
 
 324
 00:12:05,431 --> 00:12:06,391
-we're gonna draw like
+我们画个
 
 325
 00:12:06,421 --> 00:12:07,921
-a triangle type shape
+三角型的形状
 
 326
 00:12:07,951 --> 00:12:10,201
-so down here it's gonna draw a forward slash
+到这下面来 画个/
 
 327
 00:12:10,531 --> 00:12:13,951
-and then up here I'll make a space and we'll do another foreign sash
+往上 加各个空格 我们再画一个/
 
 328
 00:12:14,371 --> 00:12:14,911
-here will make
+在这加上
 
 329
 00:12:14,941 --> 00:12:16,051
-two spaces
+两个空格
 
 330
 00:12:16,411 --> 00:12:17,791
-with united forward slash.
+还有一个/
 
 331
 00:12:17,851 --> 00:12:18,691
-and over here
+在这
 
 332
 00:12:18,751 --> 00:12:20,731
-we can make three spaces and afford sash.
+ 三个空格和/
 
 333
 00:12:21,301 --> 00:12:24,721
-and now I'm going to draw like a vertical bar is going all the way down.
+现在所有的后面都加上垂直线
 
 334
 00:12:27,391 --> 00:12:29,701
-and actually we can do some underscores here as well.
+也可以在这加上下画线
 
 335
 00:12:29,791 --> 00:12:30,511
-I think high school
+我们现在开始加
 
 336
 00:12:32,011 --> 00:12:35,191
-right so now we have our triangle looking shave and you can see
+现在我们就有了一个三角形雏形 能看到
 
 337
 00:12:35,461 --> 00:12:37,381
-it looks kind of like a right triangle
+这个三角形像是个直角三角形
 
 338
 00:12:37,501 --> 00:12:38,911
-so I can save my file.
+保存我的文件
 
 339
 00:12:39,211 --> 00:12:41,971
-and I can either come up here to run and
+我可以到这运行这文件
 
 340
 00:12:42,031 --> 00:12:43,231
-click run app
+点击run app
 
 341
 00:12:43,531 --> 00:12:47,281
-or of using pie charm you can also just come over here and click this play button
+或者在pycharm中到这点击运行按钮
 
 342
 00:12:47,881 --> 00:12:51,451
-and when I click the play button I want you to notice what happens down here
+当我点击运行按钮时 我想让你注意下面输出的变化
 
 343
 00:12:51,751 --> 00:12:52,231
-so
+所以
 
 344
 00:12:52,291 --> 00:12:54,481
-down here we have this little window and
+在这下面 我们会看到这小窗口
 
 345
 00:12:54,511 --> 00:12:56,101
-this is called the consul
+这个叫控制台
 
 346
 00:12:56,611 --> 00:13:00,182
-and it basically the council is a place where python is going to
+控制台其实是python输出
 
 347
 00:13:00,242 --> 00:13:02,042
-output some information so
+信息的地方
 
 348
 00:13:02,341 --> 00:13:05,612
-when we use this print statement were basically telling python late
+当我们使用print的时候 其实就是告诉python
 
 349
 00:13:05,822 --> 00:13:08,012
-hey can you print something out onto the consul.
+嘿！ 你能把这些东西打印到控制台吗
 
 350
 00:13:08,282 --> 00:13:08,612
-so
+所以
 
 351
 00:13:08,642 --> 00:13:12,722
-there's a lot of situations where we're gonna wanna see what's going on in our code.
+会有很多的情况我们要去查看代码在干嘛
 
 352
 00:13:13,052 --> 00:13:14,852
-and we can use that print statement and
+我们可以用print 
 
 353
 00:13:14,912 --> 00:13:16,562
-print things out to the council.
+把东西打印到控制台
 
 354
 00:13:16,802 --> 00:13:20,582
